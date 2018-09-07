@@ -1,0 +1,150 @@
+body {
+    background-color: #7e685a;
+    background-image:
+      radial-gradient(#faed26 35%, transparent 0), 
+      radial-gradient(#e7717d 35%, transparent 0);
+    background-size: 30px 30px;
+    background-position: 0 0, 15px 15px;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 24px;
+}
+
+.navigation{
+    background-color: #7e685a;
+}
+
+.header a{
+    color: #faed26;
+    text-decoration: none;
+}
+
+.header ul{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header li{
+    display: inline-block;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.social_media{
+    background-color: #7e685a;
+}
+
+.social_media a{
+    color: #faed26;
+}
+
+.social_media a:hover{
+    color: #e7717d;
+}
+
+.social_media ul{
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+.social_media li{
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.about-me{
+    text-align: center;
+}
+
+.about-me img{
+    width: 600px;
+    border-radius: 50%;
+
+}
+
+.me {
+    background-color: #7e685a;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 24px;
+}
+
+.me h2{
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 64px;
+    color: #e7717d;
+    text-shadow: 2px 2px 4px #faed26;
+    text-align: center;
+
+}
+.me h3{
+    text-transform: uppercase;
+    color: #faed26;
+    text-align: center;
+}
+
+.me p{
+    color: #faed26;
+    text-align: center;
+}
+
+.project {
+    background-color: #7e685a;
+}
+
+.project h2{
+    background-color: #7e685a;
+    text-transform: uppercase;
+    text-align: center;
+    color: #e7717d;
+    text-shadow: 2px 2px 4px #faed26;
+    font-size: 50px;
+}
+
+.project1{
+    background-color: #7e685a;
+}
+
+.project1 p{
+    color: #faed26;
+}
+.project1 a{
+   background-color: #e7717d;
+   color: #7e685a;
+   border: 3px solid #faed26;
+}
+
+.project2 a{
+    text-decoration: none;
+    border-radius: 0px;
+}
+
+.contact {
+    background-color: #7e685a;
+    font-size: 34px;
+}
+
+.contact h2{
+    text-align: center;
+    color: #e7717d;
+    text-shadow: 2px 2px 4px #faed26;
+    font-size: 48px;     
+}
+
+.contact h4{
+    text-align: center;
+    color: #faed26;
+}
+
+.contact i{
+    text-align: center;
+    color: #e7717d;
+}
+
+.contact p{
+    text-align: center;
+    color: #faed26;
+    font-size: 24px;
+}
